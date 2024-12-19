@@ -1,3 +1,4 @@
+import Foot from "./Foot";
 import NavBar from "./NavBar";
 
 export default function About(){
@@ -8,6 +9,9 @@ export default function About(){
             </div>
             <div>
                 About page
+            </div>
+            <div>
+                <Foot/>
             </div>
         </div>
     )

@@ -1,3 +1,4 @@
+import Foot from "./Foot";
 import NavBar from "./NavBar";
 
 export default function Prize(){
@@ -8,6 +9,9 @@ export default function Prize(){
             </div>
             <div>
                 Prize page
+            </div>
+            <div>
+                <Foot/>
             </div>
         </div>
     )
